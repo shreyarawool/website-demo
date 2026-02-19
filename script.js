@@ -1,2 +1,3 @@
-console.log("Website loaded successfully!");
-s
+function order() {
+    alert("Thank you for ordering from Shreya's Ice Cream Parlour!");
+}
